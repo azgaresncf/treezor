@@ -1,0 +1,83 @@
+# Treezor.InlineResponse2005Users
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**firstname** | **String** | Representative&#x27;s first name. | [optional] 
+**lastname** | **String** | Representative&#x27;s last name. | [optional] 
+**fullnames** | **String** | Representative&#x27;s full names. | [optional] 
+**birthday** | **String** | Representative&#x27;s birthdate. Format YYYY-MM-DD | [optional] 
+**parentType** | **String** | Representative&#x27;s position in company | [optional] 
+
+<a name="ParentTypeEnum"></a>
+## Enum: ParentTypeEnum
+
+* `honoraryPresident` (value: `"Honorary president"`)
+* `notAssociatedManager` (value: `"Not associated manager"`)
+* `presidentOfTheControlCouncil` (value: `"President of the control council"`)
+* `memberOfTheManagementBoard` (value: `"Member of the management board"`)
+* `memberOfTheSupervisoryCouncil` (value: `"Member of the supervisory council"`)
+* `memberOfTheControlCommittee` (value: `"Member of the control committee"`)
+* `partner` (value: `"Partner"`)
+* `managementAdvisor_` (value: `"Management advisor "`)
+* `deputyManagingDirector` (value: `"Deputy managing director"`)
+* `vicePresidentOfTheManagementBoard` (value: `"Vice-president of the management board"`)
+* `vicePresidentOfTheSupervisoryCouncil` (value: `"Vice-president of the supervisory council"`)
+* `developer` (value: `"Developer"`)
+* `otherManager` (value: `"Other manager"`)
+* `receiver` (value: `"Receiver"`)
+* `authorizedAgent` (value: `"Authorized agent"`)
+* `personInChargeAbroad` (value: `"Person in charge abroad"`)
+* `representativeInFrance` (value: `"Representative in France"`)
+* `memberOfTheManagementCouncil` (value: `"Member of the management council"`)
+* `memberOfTheControlCouncil` (value: `"Member of the control council"`)
+* `treasurer` (value: `"Treasurer"`)
+* `secretary` (value: `"Secretary"`)
+* `member` (value: `"Member"`)
+* `administrativeDirector` (value: `"Administrative director"`)
+* `salesDirector` (value: `"Sales director"`)
+* `financialDirector` (value: `"Financial director"`)
+* `chiefTechnicalOfficer` (value: `"Chief Technical Officer"`)
+* `generalSecretary` (value: `"General secretary"`)
+* `chiefAccountant` (value: `"Chief accountant"`)
+* `guardian` (value: `"Guardian"`)
+* `planCommissioner_` (value: `"Plan commissioner "`)
+* `managementAgent` (value: `"Management agent"`)
+* `concordatCommissioner` (value: `"Concordat commissioner"`)
+* `representativeOfTheCreditors` (value: `"Representative of the creditors"`)
+* `judicialRepresentative` (value: `"Judicial representative"`)
+* `substituteJudgeCommissioner` (value: `"Substitute judge-commissioner"`)
+* `judgeCommissioner` (value: `"Judge-commissioner"`)
+* `receiverrepresentativeOfTheCreditors` (value: `"Receiver/representative of the creditors"`)
+* `conciliator` (value: `"Conciliator"`)
+* `auditor` (value: `"Auditor"`)
+* `statutoryAuditor` (value: `"Statutory auditor"`)
+* `supervisionCommissioner` (value: `"Supervision commissioner"`)
+* `deputyAuditor` (value: `"Deputy auditor"`)
+* `spouseAssociate` (value: `"Spouse-associate"`)
+* `accountsController` (value: `"Accounts controller"`)
+* `censor` (value: `"Censor"`)
+* `chiefExecutiveOfficer` (value: `"Chief Executive Officer"`)
+* `president` (value: `"President"`)
+* `chairmanOfTheBoard` (value: `"Chairman of the Board"`)
+* `governor` (value: `"Governor"`)
+* `deputyGovernor` (value: `"Deputy governor"`)
+* `personHavingThePowerToUsuallyInvolveTheCompany` (value: `"Person having the power to usually involve the company"`)
+* `manager` (value: `"Manager"`)
+* `coManagingPartner` (value: `"Co-managing partner"`)
+* `managingDirector` (value: `"Managing director"`)
+* `managingDirectorNotAdministrator` (value: `"Managing director not administrator"`)
+* `uniqueManagingDirector` (value: `"Unique managing director"`)
+* `delegatedManagingDirector` (value: `"Delegated managing director"`)
+* `vicePresident` (value: `"Vice-president"`)
+* `administrator` (value: `"Administrator"`)
+* `delegatedAdministrator` (value: `"Delegated administrator"`)
+* `presidentOfTheManagementBoard` (value: `"President of the management board"`)
+* `presidentOfTheSupervisoryCouncil` (value: `"President of the supervisory council"`)
+* `activePartner` (value: `"Active partner"`)
+* `managementController` (value: `"Management controller"`)
+* `liquidator` (value: `"Liquidator"`)
+* `temporaryAdministrator` (value: `"Temporary administrator"`)
+* `representativeInFranceOfAForeignCompany` (value: `"Representative in France of a foreign company"`)
+* `personalBusinessManager` (value: `"Personal business manager"`)
+
